@@ -1,4 +1,4 @@
-<h1>Mini Programas JavaScript com HTML</h1>
+<h1>Flexbox</h1>
     <p>Este repositório contém um arquivo escrito em HTML criado para entender um pouco mais o flexbox.</p>
     <h2>Como usar</h2>
     <ol>
